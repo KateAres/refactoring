@@ -1,18 +1,21 @@
 # refactoring
+
+used JDK - JDK 11.0.6
+
 The app prints out information about people (the list is provided via file) 
 from different groups (the list is provided via file), who are older then given age
 
 # How to package the application
 
-mvn package
+<code>mvn package</code>
 
 # How to run the application
 
-java -cp target\basic-task-1.0-SNAPSHOT.jar ru.esphere.school.App
+<code>java -cp target\basic-task-1.0-SNAPSHOT.jar ru.esphere.school.App</code>
 
 # How to run tests
 
-mvn test
+<code>mvn test</code>
 
 # Class App
 
