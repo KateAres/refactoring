@@ -1,0 +1,8 @@
+Lisa,12,intermediate
+Greg,87,pre-intermediate
+Molly,34,beginner
+Sarah,76,intermediate
+Kate,45,beginner
+Oleg,35,pre-intermediate
+Mat,10,advanced
+Harry,21,advanced

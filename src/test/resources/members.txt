@@ -1,0 +1,4 @@
+Mary,23,firstGroup
+Lisa,12,firstGroup
+Lola,73,secondGroup
+Petr,54,secondGroup
